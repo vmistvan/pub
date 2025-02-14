@@ -1,5 +1,7 @@
 # Helló Kolléga!
 [alt QRkód](./pic/AIQR.PNG)
+
+
 Ez a villámelőadásom háttéranyaga, hogy jobban pörögjön :)
 
 ## Másold le gyorsan, mert lehet később átnevezem, vagy elrakom máshova!
