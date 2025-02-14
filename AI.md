@@ -1,5 +1,5 @@
 # Helló Kolléga!
-[alt QRkód](./pic/AIQR.PNG)
+![alt QRkód](./pic/AIQR.PNG)
 
 
 Ez a villámelőadásom háttéranyaga, hogy jobban pörögjön :)
