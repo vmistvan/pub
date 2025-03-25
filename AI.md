@@ -51,3 +51,5 @@ https://suno.com/song/484cc3f5-d0db-4b9a-aabe-d234c03c143d?sh=rMa0z87WwCZ9Smb1
 Vagy szivat a DRV:
 https://suno.com/song/9106393f-4ff8-4b5e-908c-5272fcca5fd0?sh=AAD4lskBLLHXkfPk
 
+És három a magyar igazság, ezt az öt szabályt mondom el a kódgeneráló modellnek minden nap, mielőtt nekikezdünk a munkához:
+https://suno.com/song/05bdd2a2-8078-4aa6-8af0-93b5416850a3
