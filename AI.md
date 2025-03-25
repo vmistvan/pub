@@ -32,7 +32,7 @@ https://suno.com/song/1dbc829f-24d3-4cac-a06a-1c7ccdc9cc91?sh=8jOyQlEqZGNM7stz
 ## Mi hat még a generált számra?
 - Ne legyünk szégyenlősek, ha véletlen rátalálunk egy jó zenére, akkor használjuk a "reuse prompt" gombot, így egy magas szinten előzetesen beállított, halálprecízen súlyozott állapottal dolgozhatunk tovább. Miközben ezt írtam, beajánlott egy számot, amit tutira tovább fogok dolgozni: https://suno.com/song/c330b088-9e46-417e-b4d0-38ac7c3222f2
 - A véletlen, hogy egy gombnyomásra kapásból 2 számot generál, de mire elérjük a célunk, akár 10-20 számot is generálhatunk... HÁT AKKOR?
-- Adjunk lelkesen lájkot a saját zenénkre is lájkot! Még a kódgenerálásnál is beleírom a dicséretet, mert tapasztalatból azt látom, hogy nagyon jól működik a pozitív visszacsatolás.
+- Adjunk lelkesen lájkot a saját zenénkre is! Még a kódgenerálásnál is beleírom a dicséretet, mert tapasztalatból azt látom, hogy nagyon jól működik a pozitív visszacsatolás.
 
 
 # Úgy gondolom, akkor állunk megfelelően az AI-hoz, ha egy szerszámként, itt egy hangszerként gondolunk rá. Sem utálni, sem imádni nem kell.
